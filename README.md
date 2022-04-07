@@ -1,2 +1,3 @@
- PROJECT'S LINK : https://ahmadagayev.github.io/todoapp/
- PROJECT'S LINK : https://project-mytodoapp.netlify.app
+ # PROJECT'S LINK 
+ https://ahmadagayev.github.io/todoapp/
+ https://project-mytodoapp.netlify.app
